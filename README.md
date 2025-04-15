@@ -12,14 +12,14 @@ JSON Input & Output: Accepts numerical input and returns predictions in JSON for
 
 Docker & Uvicorn Support: Can be deployed efficiently.
 
-# Installation & Setup
+# Installation & Setup:
 
 1. Clone the Repository
 
 git clone https://github.com/KB2100/Hydrological_Model_API.git
 cd Hydrological_Model_API
 
-2. Install Dependencies
+2. Install Dependencies:
 
 Create a virtual environment (optional but recommended) and install dependencies:
 
