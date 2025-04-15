@@ -31,7 +31,7 @@ Install required Python packages:
 
 pip install -r requirements.txt
 
-# 3. Run the API Server
+# 3. Run the API Server:
 
 uvicorn app:app --host 0.0.0.0 --port 8000
 
